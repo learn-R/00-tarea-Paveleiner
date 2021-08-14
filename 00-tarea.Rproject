@@ -10,5 +10,5 @@ R: R es el lenguaje de programación y RStudio el IDE (entorno de desarrollo int
 
     ¿Con qué comando puedes subir los cambios del repositorio local al remoto?
     
-R: con el comando git push
+R: con el comando git pull
 
