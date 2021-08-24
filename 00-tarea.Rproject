@@ -1,0 +1,14 @@
+Luego de leer esta breve introducción, debes contestar esta guía:
+
+    ¿Cuál es tu nombre?
+
+R: Pablo Fuentes
+
+    ¿Cuál es la diferencia entre R y RStudio?
+
+R: R es el lenguaje de programación y RStudio el IDE (entorno de desarrollo integrado) en el cual se trabaja y codifica
+
+    ¿Con qué comando puedes subir los cambios del repositorio local al remoto?
+    
+R: con el comando git pull
+
